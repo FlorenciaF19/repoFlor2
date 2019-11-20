@@ -1,120 +1,144 @@
 {
 	"categorias": [{
+			"id": 1,
 			"nombre": "Categoría 1 prueba",
 			"imagen": "hello",
 			"color": "#006400"
 		},
 		{
+			"id": 2,
 			"nombre": "Categoría 2 prueba",
 			"imagen": "hello",
 			"color": "#00008B"
 		},
 		{
+			"id": 3,
 			"nombre": "Categoría 3 prueba",
 			"imagen": "hello",
 			"color": "#000080"
 		},
 		{
+			"id": 4,
 			"nombre": "Categoría 4 prueba",
 			"imagen": "hello",
 			"color": "#990000"
 		},
 		{
+			"id": 5,
 			"nombre": "Categoría 5 prueba",
 			"imagen": "hello",
 			"color": "#00008B"
 		},
 		{
+			"id": 6,
 			"nombre": "Categoría 6 prueba",
 			"imagen": "hello",
 			"color": "#000080"
 		},
 		{
+			"id": 7,
 			"nombre": "Categoría 7 prueba",
 			"imagen": "hello",
 			"color": "#006400"
 		},
 		{
+			"id": 8,
 			"nombre": "Categoría 8 prueba",
 			"imagen": "hello",
 			"color": "#00008B"
 		},
 		{
+			"id": 9,
 			"nombre": "Categoría 9 prueba",
 			"imagen": "hello",
 			"color": "#000080"
 		},
 		{
+			"id": 10,
 			"nombre": "Categoría 10 prueba",
 			"imagen": "hello",
 			"color": "#990000"
 		},
 		{
+			"id": 11,
 			"nombre": "Categoría 11 prueba",
 			"imagen": "hello",
 			"color": "#00008B"
 		},
 		{
+			"id": 12,
 			"nombre": "Categoría 12 prueba",
 			"imagen": "hello",
 			"color": "#000080"
 		},
 		{
+			"id": 13,
 			"nombre": "Categoría 13 prueba",
 			"imagen": "hello",
 			"color": "#006400"
 		},
 		{
+			"id": 14,
 			"nombre": "Categoría 14 prueba",
 			"imagen": "hello",
 			"color": "#00008B"
 		},
 		{
+			"id": 15,
 			"nombre": "Categoría 15 prueba",
 			"imagen": "hello",
 			"color": "#000080"
 		},
 		{
+			"id": 16,
 			"nombre": "Categoría 16 prueba",
 			"imagen": "hello",
 			"color": "#990000"
 		},
 		{
+			"id": 17,
 			"nombre": "Categoría 17 prueba",
 			"imagen": "hello",
 			"color": "#00008B"
 		},
 		{
+			"id": 18,
 			"nombre": "Categoría 18 prueba",
 			"imagen": "hello",
 			"color": "#000080"
 		},
 		{
+			"id": 19,
 			"nombre": "Categoría 19 prueba",
 			"imagen": "hello",
 			"color": "#006400"
 		},
 		{
+			"id": 20,
 			"nombre": "Categoría 20 prueba",
 			"imagen": "hello",
 			"color": "#00008B"
 		},
 		{
+			"id": 21,
 			"nombre": "Categoría 21 prueba",
 			"imagen": "hello",
 			"color": "#000080"
 		},
 		{
+			"id": 22,
 			"nombre": "Categoría 22 prueba",
 			"imagen": "hello",
 			"color": "#990000"
 		},
 		{
+			"id": 23,
 			"nombre": "Categoría 23 prueba",
 			"imagen": "hello",
 			"color": "#00008B"
 		},
 		{
+			"id": 24,
 			"nombre": "Categoría 24 prueba",
 			"imagen": "hello",
 			"color": "#000080"
