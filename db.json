@@ -2,7 +2,7 @@
 	"categorias": [{
 			"id": 1,
 			"nombre": "Categoría 1 prueba",
-			"imagen": "hello",
+			"imagen": "hello_",
 			"color": "#006400"
 		},
 		{
