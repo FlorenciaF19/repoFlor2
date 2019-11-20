@@ -1,14 +1,123 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"categorias": [{
+			"nombre": "Categoría 1 prueba",
+			"imagen": "hello",
+			"color": "#006400"
+		},
+		{
+			"nombre": "Categoría 2 prueba",
+			"imagen": "hello",
+			"color": "#00008B"
+		},
+		{
+			"nombre": "Categoría 3 prueba",
+			"imagen": "hello",
+			"color": "#000080"
+		},
+		{
+			"nombre": "Categoría 4 prueba",
+			"imagen": "hello",
+			"color": "#990000"
+		},
+		{
+			"nombre": "Categoría 5 prueba",
+			"imagen": "hello",
+			"color": "#00008B"
+		},
+		{
+			"nombre": "Categoría 6 prueba",
+			"imagen": "hello",
+			"color": "#000080"
+		},
+		{
+			"nombre": "Categoría 7 prueba",
+			"imagen": "hello",
+			"color": "#006400"
+		},
+		{
+			"nombre": "Categoría 8 prueba",
+			"imagen": "hello",
+			"color": "#00008B"
+		},
+		{
+			"nombre": "Categoría 9 prueba",
+			"imagen": "hello",
+			"color": "#000080"
+		},
+		{
+			"nombre": "Categoría 10 prueba",
+			"imagen": "hello",
+			"color": "#990000"
+		},
+		{
+			"nombre": "Categoría 11 prueba",
+			"imagen": "hello",
+			"color": "#00008B"
+		},
+		{
+			"nombre": "Categoría 12 prueba",
+			"imagen": "hello",
+			"color": "#000080"
+		},
+		{
+			"nombre": "Categoría 13 prueba",
+			"imagen": "hello",
+			"color": "#006400"
+		},
+		{
+			"nombre": "Categoría 14 prueba",
+			"imagen": "hello",
+			"color": "#00008B"
+		},
+		{
+			"nombre": "Categoría 15 prueba",
+			"imagen": "hello",
+			"color": "#000080"
+		},
+		{
+			"nombre": "Categoría 16 prueba",
+			"imagen": "hello",
+			"color": "#990000"
+		},
+		{
+			"nombre": "Categoría 17 prueba",
+			"imagen": "hello",
+			"color": "#00008B"
+		},
+		{
+			"nombre": "Categoría 18 prueba",
+			"imagen": "hello",
+			"color": "#000080"
+		},
+		{
+			"nombre": "Categoría 19 prueba",
+			"imagen": "hello",
+			"color": "#006400"
+		},
+		{
+			"nombre": "Categoría 20 prueba",
+			"imagen": "hello",
+			"color": "#00008B"
+		},
+		{
+			"nombre": "Categoría 21 prueba",
+			"imagen": "hello",
+			"color": "#000080"
+		},
+		{
+			"nombre": "Categoría 22 prueba",
+			"imagen": "hello",
+			"color": "#990000"
+		},
+		{
+			"nombre": "Categoría 23 prueba",
+			"imagen": "hello",
+			"color": "#00008B"
+		},
+		{
+			"nombre": "Categoría 24 prueba",
+			"imagen": "hello",
+			"color": "#000080"
+		}
+	]
 }
