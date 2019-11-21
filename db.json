@@ -1,147 +1,147 @@
 {
-	"categorias": [{
+	"categories": [{
 			"id": 1,
-			"nombre": "Categoría 1 prueba",
-			"imagen": "https://img.icons8.com/cotton/64/000000/sun--v3.png",
-			"color": "#006400"
+			"name": "Categoría 1 prueba",
+			"image": "https://img.icons8.com/cotton/64/000000/sun--v3.png",
+			"colour": "#006400"
 		},
 		{
 			"id": 2,
-			"nombre": "Categoría 2 prueba",
-			"imagen": "https://img.icons8.com/wired/64/000000/sun.png",
-			"color": "#00008B"
+			"name": "Categoría 2 prueba",
+			"image": "https://img.icons8.com/wired/64/000000/sun.png",
+			"colour": "#00008B"
 		},
 		{
 			"id": 3,
-			"nombre": "Categoría 3 prueba",
-			"imagen": "https://img.icons8.com/cotton/64/000000/sun--v2.png",
-			"color": "#000080"
+			"name": "Categoría 3 prueba",
+			"image": "https://img.icons8.com/cotton/64/000000/sun--v2.png",
+			"colour": "#000080"
 		},
 		{
 			"id": 4,
-			"nombre": "Categoría 4 prueba",
-			"imagen": "https://img.icons8.com/wired/64/000000/sun.png",
-			"color": "#990000"
+			"name": "Categoría 4 prueba",
+			"image": "https://img.icons8.com/wired/64/000000/sun.png",
+			"colour": "#990000"
 		},
 		{
 			"id": 5,
-			"nombre": "Categoría 5 prueba",
-			"imagen": "https://img.icons8.com/cotton/64/000000/sun--v2.png",
-			"color": "#00008B"
+			"name": "Categoría 5 prueba",
+			"image": "https://img.icons8.com/cotton/64/000000/sun--v2.png",
+			"colour": "#00008B"
 		},
 		{
 			"id": 6,
-			"nombre": "Categoría 6 prueba",
-			"imagen": "https://img.icons8.com/cotton/64/000000/sun--v3.png",
-			"color": "#000080"
+			"name": "Categoría 6 prueba",
+			"image": "https://img.icons8.com/cotton/64/000000/sun--v3.png",
+			"colour": "#000080"
 		},
 		{
 			"id": 7,
-			"nombre": "Categoría 7 prueba",
-			"imagen": "https://img.icons8.com/clouds/100/000000/bright-moon.png",
-			"color": "#006400"
+			"name": "Categoría 7 prueba",
+			"image": "https://img.icons8.com/clouds/100/000000/bright-moon.png",
+			"colour": "#006400"
 		},
 		{
 			"id": 8,
-			"nombre": "Categoría 8 prueba",
-			"imagen": "https://img.icons8.com/wired/64/000000/sun.png",
-			"color": "#00008B"
+			"name": "Categoría 8 prueba",
+			"image": "https://img.icons8.com/wired/64/000000/sun.png",
+			"colour": "#00008B"
 		},
 		{
 			"id": 9,
-			"nombre": "Categoría 9 prueba",
-			"imagen": "https://img.icons8.com/clouds/100/000000/bright-moon.png",
-			"color": "#000080"
+			"name": "Categoría 9 prueba",
+			"image": "https://img.icons8.com/clouds/100/000000/bright-moon.png",
+			"colour": "#000080"
 		},
 		{
 			"id": 10,
-			"nombre": "Categoría 10 prueba",
-			"imagen": "https://img.icons8.com/clouds/100/000000/bright-moon.png",
-			"color": "#990000"
+			"name": "Categoría 10 prueba",
+			"image": "https://img.icons8.com/clouds/100/000000/bright-moon.png",
+			"colour": "#990000"
 		},
 		{
 			"id": 11,
-			"nombre": "Categoría 11 prueba",
-			"imagen": "https://img.icons8.com/cotton/64/000000/sun--v2.png",
-			"color": "#00008B"
+			"name": "Categoría 11 prueba",
+			"image": "https://img.icons8.com/cotton/64/000000/sun--v2.png",
+			"colour": "#00008B"
 		},
 		{
 			"id": 12,
-			"nombre": "Categoría 12 prueba",
-			"imagen": "https://img.icons8.com/clouds/100/000000/bright-moon.png",
-			"color": "#000080"
+			"name": "Categoría 12 prueba",
+			"image": "https://img.icons8.com/clouds/100/000000/bright-moon.png",
+			"colour": "#000080"
 		},
 		{
 			"id": 13,
-			"nombre": "Categoría 13 prueba",
-			"imagen": "https://img.icons8.com/cotton/64/000000/sun--v3.png",
-			"color": "#006400"
+			"name": "Categoría 13 prueba",
+			"image": "https://img.icons8.com/cotton/64/000000/sun--v3.png",
+			"colour": "#006400"
 		},
 		{
 			"id": 14,
-			"nombre": "Categoría 14 prueba",
-			"imagen": "https://img.icons8.com/wired/64/000000/sun.png",
-			"color": "#00008B"
+			"name": "Categoría 14 prueba",
+			"image": "https://img.icons8.com/wired/64/000000/sun.png",
+			"colour": "#00008B"
 		},
 		{
 			"id": 15,
-			"nombre": "Categoría 15 prueba",
-			"imagen": "https://img.icons8.com/clouds/100/000000/bright-moon.png",
-			"color": "#000080"
+			"name": "Categoría 15 prueba",
+			"image": "https://img.icons8.com/clouds/100/000000/bright-moon.png",
+			"colour": "#000080"
 		},
 		{
 			"id": 16,
-			"nombre": "Categoría 16 prueba",
-			"imagen": "https://img.icons8.com/cotton/64/000000/sun--v2.png",
-			"color": "#990000"
+			"name": "Categoría 16 prueba",
+			"image": "https://img.icons8.com/cotton/64/000000/sun--v2.png",
+			"colour": "#990000"
 		},
 		{
 			"id": 17,
-			"nombre": "Categoría 17 prueba",
-			"imagen": "https://img.icons8.com/clouds/100/000000/bright-moon.png",
-			"color": "#00008B"
+			"name": "Categoría 17 prueba",
+			"image": "https://img.icons8.com/clouds/100/000000/bright-moon.png",
+			"colour": "#00008B"
 		},
 		{
 			"id": 18,
-			"nombre": "Categoría 18 prueba",
-			"imagen": "https://img.icons8.com/cotton/64/000000/sun--v3.png",
-			"color": "#000080"
+			"name": "Categoría 18 prueba",
+			"image": "https://img.icons8.com/cotton/64/000000/sun--v3.png",
+			"colour": "#000080"
 		},
 		{
 			"id": 19,
-			"nombre": "Categoría 19 prueba",
-			"imagen": "https://img.icons8.com/clouds/100/000000/bright-moon.png",
-			"color": "#006400"
+			"name": "Categoría 19 prueba",
+			"image": "https://img.icons8.com/clouds/100/000000/bright-moon.png",
+			"colour": "#006400"
 		},
 		{
 			"id": 20,
-			"nombre": "Categoría 20 prueba",
-			"imagen": "https://img.icons8.com/clouds/100/000000/bright-moon.png",
-			"color": "#00008B"
+			"name": "Categoría 20 prueba",
+			"image": "https://img.icons8.com/clouds/100/000000/bright-moon.png",
+			"colour": "#00008B"
 		},
 		{
 			"id": 21,
-			"nombre": "Categoría 21 prueba",
-			"imagen": "https://img.icons8.com/cotton/64/000000/sun--v2.png",
-			"color": "#000080"
+			"name": "Categoría 21 prueba",
+			"image": "https://img.icons8.com/cotton/64/000000/sun--v2.png",
+			"colour": "#000080"
 		},
 		{
 			"id": 22,
-			"nombre": "Categoría 22 prueba",
-			"imagen": "https://img.icons8.com/wired/64/000000/sun.png",
-			"color": "#990000"
+			"name": "Categoría 22 prueba",
+			"image": "https://img.icons8.com/wired/64/000000/sun.png",
+			"colour": "#990000"
 		},
 		{
 			"id": 23,
-			"nombre": "Categoría 23 prueba",
-			"imagen": "https://img.icons8.com/cotton/64/000000/sun--v2.png",
-			"color": "#00008B"
+			"name": "Categoría 23 prueba",
+			"image": "https://img.icons8.com/cotton/64/000000/sun--v2.png",
+			"colour": "#00008B"
 		},
 		{
 			"id": 24,
-			"nombre": "Categoría 24 prueba",
-			"imagen": "https://img.icons8.com/cotton/64/000000/sun--v3.png",
-			"color": "#000080"
+			"name": "Categoría 24 prueba",
+			"image": "https://img.icons8.com/cotton/64/000000/sun--v3.png",
+			"colour": "#000080"
 		}
 	]
 }
